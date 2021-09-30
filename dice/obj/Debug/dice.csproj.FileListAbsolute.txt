@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\dice\dice\bin\Debug\dice.exe.config
+C:\Users\Dell\source\repos\dice\dice\bin\Debug\dice.exe
+C:\Users\Dell\source\repos\dice\dice\bin\Debug\dice.pdb
+C:\Users\Dell\source\repos\dice\dice\obj\Debug\dice.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\dice\dice\obj\Debug\dice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\dice\dice\obj\Debug\dice.exe
+C:\Users\Dell\source\repos\dice\dice\obj\Debug\dice.pdb
