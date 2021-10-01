@@ -1,0 +1,2 @@
+# Dice
+primeiro programa c#
